@@ -52,3 +52,9 @@
 .card-text{
     color: gray;
 }
+#contact{
+    height: 300px;
+}
+.child h6{
+    color: gray;
+}
